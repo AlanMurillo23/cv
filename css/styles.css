@@ -27,6 +27,7 @@ font-family: 'Montserrat', sans-serif;
   position: absolute;
   right: 25%;
   top: 25%;
+  height: 20%
 }
 .Web-Development{
   height: 20%;
@@ -38,6 +39,8 @@ font-family: 'Montserrat', sans-serif;
 }
 .bottom-cloud{
   position: absolute;
+  height: 20%;
+  left: 25%;
 }
 .top{
   background-color: #a3d2ca;
